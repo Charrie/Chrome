@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name":"获取现时日期时间",
+    "version":"1.0",
+    "description":"获取当前日期",
+    
+    "browser_action":
+    {
+        "default_icon":"images/16.gif",
+        "default_title":"日期",
+        "default_popup":"popup.html"
+    }
+}
